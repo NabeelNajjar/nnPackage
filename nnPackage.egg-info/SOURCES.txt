@@ -1,7 +1,8 @@
 setup.py
-nnPackage/__init__.py
-nnPackage.egg-info/PKG-INFO
-nnPackage.egg-info/SOURCES.txt
-nnPackage.egg-info/dependency_links.txt
-nnPackage.egg-info/not-zip-safe
-nnPackage.egg-info/top_level.txt
+nnpackage/__init__.py
+nnpackage/text.py
+nnpackage.egg-info/PKG-INFO
+nnpackage.egg-info/SOURCES.txt
+nnpackage.egg-info/dependency_links.txt
+nnpackage.egg-info/not-zip-safe
+nnpackage.egg-info/top_level.txt

@@ -6,6 +6,8 @@ def joke2():
 # usage  => nnPackage.joke()
 # Vact84dgTwfHg2R
 # distibution => python setup.py sdist
+#                python setup.py register sdist upload
+
 '''
 git init .
 git add .
@@ -14,6 +16,9 @@ git commit -m "1st package"
 git remote add origin https://github.com/NabeelNajjar/nnPackage
 git push --set-upstream origin master
 
+[pypi]
+  username = nabnaj
+  password = pypi-AgEIcHlwaS5vcmcCJDIxZGQ3YmRmLTFhMGItNGRjMy05YzFlLTE1ZDlhYzI4Y2Y0MgACJXsicGVybWlzc2lvbnMiOiAidXNlciIsICJ2ZXJzaW9uIjogMX0AAAYgEIj2_C1YIXb3hjfrvt0VkvvaF7ynMyKtvggf-Q4c67g
 
 '''
 
